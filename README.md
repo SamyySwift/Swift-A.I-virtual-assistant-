@@ -24,5 +24,5 @@ The following libraries was used to build swift
 * Tensorflow (used for training model)
 
 # Discusion
-This is just a basic version of swift. It can be made more sophisticated by adding more features, and by using a more advanced deep leaning neural networks wich can make the the bot be a self learning AI. Am still working on the this.
+This is just a basic version of swift. It can be made more sophisticated by adding more features, and by using a more advanced deep leaning neural network wich can make the bot be a self learning AI. Am still working on the this.
 Anyways, feel free to contribute to the project.
